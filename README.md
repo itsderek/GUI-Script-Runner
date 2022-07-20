@@ -11,8 +11,8 @@ Overall this program should be a useful tool for my team members and expedite th
 
 ## Billing System Selection Screen:
 
-![First Screen](https://github.com/itsderek/GUI-Script-Runner/blob/main/first_screen.PNG?raw=TRUE)
+![First Screen](https://github.com/itsderek/GUI-Script-Runner/blob/main/screenshots/first_screen.PNG?raw=TRUE)
 
 ## Script Running Screen:
 
-![Second Screen](https://github.com/itsderek/GUI-Script-Runner/blob/main/second_screen.PNG?raw=TRUE)
+![Second Screen](https://github.com/itsderek/GUI-Script-Runner/blob/main/screenshots/second_screen.PNG?raw=TRUE)
